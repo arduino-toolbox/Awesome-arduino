@@ -1,4 +1,4 @@
-# awesome-arduino
+# Awesome Arduino
 A curated list of awesome Arduino hardwares, libraries and projects
 - [Awesome Arduino](#awesome-Arduino)
  	- [Librarys](#librarys)
