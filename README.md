@@ -9,6 +9,18 @@ A curated list of awesome Arduino hardwares, libraries and projects
 - [Contributing](#contributing)
 
 
+## Circuit Simulator
+
+* [123D Circuits](http://123d.circuits.io/) - Design and simulate circuit boards with our breadboard,
+schematic and PCB editor.
+* [Proteus](http://www.labcenter.com/download/prodemo_download.cfm) - Is a virtual system modelling and
+circuit simulation application.
+
+## Environment Management
+
+* [Arduino-software-IDE](http://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE)
+makes it easy to write code and upload it to the board.
+
 ## Librarys
 
 *Hardware dependent library*
